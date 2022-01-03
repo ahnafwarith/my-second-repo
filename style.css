@@ -1,5 +1,8 @@
 h1{
     text-align: center;
-    color: blue;
+    color: rgb(255, 251, 0);
     background-color: darkred;
+}
+img{
+    display: block;
 }
